@@ -11,6 +11,7 @@ This script is designed to accompany the BrightSign Plug-In for the Q-SYS Ecosys
 ![image](https://github.com/user-attachments/assets/1ac95f7b-8827-4968-90af-d7a03e5703e1)
 
 5. Bring in the BrightSign Companion script and load the Design to your Core. This will also work in Emulation mode for testing purposes.
+
 ![image](https://github.com/user-attachments/assets/3a85e78a-8948-47cc-bd5d-bcee0c8878c7)
 
 6. Once the Design is running, open the BrightSign Companion script and you will be prompted to select your BrightSign in the dropdown box below. Pick the one you wish to control.
