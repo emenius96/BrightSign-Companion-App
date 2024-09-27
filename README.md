@@ -35,9 +35,10 @@ If a video is not looping, once it ends, the default state of the BrightSign is 
 2. When a BrightSign is connected, it will automatically grab the first file in the playlist (in alphanumerical order)
 3. Hit the enable button and when the BrightSign goes 'idle' it will automatically loop this selected video
 4. There is also a reset button which will manually force this loop to begin if you need a quick 'return home' function
+
 ![image](https://github.com/user-attachments/assets/92f87166-98d6-4926-b274-8a40e1963dbe)
 
-#Additional Information
+# Additional Information
 ## Solution Type: 
 Control
 
